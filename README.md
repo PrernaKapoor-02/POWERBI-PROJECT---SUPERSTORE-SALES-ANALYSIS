@@ -1,2 +1,1 @@
-# POWERBI-PROJECT---SUPERSTORE-SALES-ANALYSIS
-POWERBI
+# Powerbi SuperStore Sales Dashboard Project 
